@@ -10,6 +10,6 @@ Education:
     Bachelor's in Software Engineering,
   ]
 
-Currently_learning: [How to deal with college 🙏]
+Currently_learning: [How to deal with college assignments🙏]
 Hobbies: [TCG, Volleyball, Basketball, Comedy]
 ```
