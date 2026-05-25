@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###A litle bit about me 🫡
+### A litle bit about me 🫡
 
 ```yaml
 name: Piyush Malhotra
