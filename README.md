@@ -6,10 +6,10 @@
 Name: Martim Melo Ferreira
 Education:
   [
-    "Currently doing my Master's in Artificial Intelligence",
-    "Bachelor's in Software Engineering",
+    Currently doing my Master's in Artificial Intelligence,
+    Bachelor's in Software Engineering,
   ]
 
-Currently_learning: ["How to deal with college 🙏"]
-Hobbies: ["TCG", "Volleyball", "Basketball", "Comedy"]
+Currently_learning: [How to deal with college 🙏]
+Hobbies: [TCG, Volleyball, Basketball, Comedy]
 ```
