@@ -6,7 +6,7 @@
 Name: Martim Melo Ferreira
 Education:
   [
-    1st-Year Master's Student in Artificial Intelligence,
+    2nd-Year Master's Student in Artificial Intelligence,
     Bachelor's in Software Engineering,
   ]
 
